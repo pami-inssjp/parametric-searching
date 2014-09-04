@@ -1,4 +1,4 @@
-parametric-searching
+parametric-search
 ====================
 Sistema de INSSJP que intenta aprovechar la potencia de lucene y la propuesta de solr para la definición de API's.
 
